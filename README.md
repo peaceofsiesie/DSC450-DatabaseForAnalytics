@@ -35,7 +35,7 @@ Assignment05
 Assignment06 / Midterm
 - Create Queries
   + Column Definition with Check Constraints and Enforce Number Precision
-  + Nested and Subnested Queries
+  + Nested and Sub - Nested Queries
   + Using Different Operators such as Like, Alter, Update and ect
 - Functional Dependencies Axiom, De-Normalization and Normalization
 - Validation of functional dependency being violated
