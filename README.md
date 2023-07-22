@@ -39,5 +39,5 @@ Assignment06 / Midterm
   + Using Different Operators such as Like, Alter, Update and ect
 - Functional Dependencies Axiom, De-Normalization and Normalization
 - Validation of functional dependency being violated
-- produce SQL views through python
+- Produce SQL views through python
 
