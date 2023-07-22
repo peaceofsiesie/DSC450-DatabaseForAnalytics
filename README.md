@@ -32,3 +32,12 @@ Assignment05
 - Using JSON to load on Twitter Data
 - Importing Twitter Data into a SQL Schema
 
+Assignment06 / Midterm
+- Create Queries
+  + Column Definition with Check Constraints and Enforce Number Precision
+  + Nested and Subnested Queries
+  + Using Different Operators such as Like, Alter, Update and ect
+- Functional Dependencies Axiom, De-Normalization and Normalization
+- Validation of functional dependency being violated
+- produce SQL views through python
+
