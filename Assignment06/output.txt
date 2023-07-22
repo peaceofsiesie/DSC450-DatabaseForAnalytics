@@ -1,0 +1,10 @@
+12345, 'Paul James Keeper', '358 South Lotus APT 3 Chicago IL 60644', 2025, 'A+', 'CSC211', 'Computer Science', 4
+12345, 'Paul James Keeper', '358 South Lotus APT 3 Chicago IL 60644', 2025, 'D-', 'CSC451', 'Computer Science', 4
+23456, 'Larry Montgomery Parker', '191 Elmside Benton Harbor MI 49022', 2023, 'B-', 'IT130', 'Information System', 2
+34567, 'Ana Summer Bummer', '621 Lake Street Oak Park IL 60632', 2020, 'C+', 'CSC211', 'Computer Science', 4
+34567, 'Ana Summer Bummer', '621 Lake Street Oak Park IL 60632', 2020, ' A+', 'IT130', 'Information System', 2
+34567, 'Ana Summer Bummer', '621 Lake Street Oak Park IL 60632', 2020, 'B-', 'CSC451', 'Computer Science', 4
+45678, 'Mary Montgomery Yonkers', '2450 South Central Chicago IL 60623', 2024, 'F+', 'IT130', 'Information System', 2
+45678, 'Mary Montgomery Yonkers', '2450 South Central Chicago IL 60623', 2024, 'A', 'CSC211', 'Computer Science', 4
+'NULL', 'NULL', 'NULL', 'NULL', 'NULL', 'CSC430', 'Computer Science', 4
+56789, 'Pat Sparks Briggs', '789 West Cicero Ave Chicago IL 65801', 2025, 'NULL', 'NULL', 'NULL', 'NULL'
