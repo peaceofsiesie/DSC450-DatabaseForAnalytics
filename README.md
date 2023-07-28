@@ -41,3 +41,12 @@ Assignment06 / Midterm
 - Validation of functional dependency being violated
 - Produce SQL views through python
 
+Assignment07
+- Function generates a random number list
+- Turning a list into NumPy Arrays and Pandas Series
+- Create two SQL schema to import data from the Twitter file
+- Read and Load Twitter data from text files from the web
+- Import all good data into the Table Schemas
+- Import all bad data into the error text file
+- Create PL/SQL trigger
+- Create a Regular Expression In Oracle
