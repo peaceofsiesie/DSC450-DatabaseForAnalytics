@@ -50,3 +50,18 @@ Assignment07
 - Import all bad data into the error text file
 - Create PL/SQL trigger
 - Create a Regular Expression In Oracle
+
+Assignment08
+
+- Creating anonymous block using PL/SQL
+- Using Cursor In Oracle
+- Creating Queries using Python with Pandas
+- Understanding Before, Instead, and After Triggers
+- PL/SQL functions, loops, parameters and much more
+
+Assignment09
+- SQLite3 and Comparing Python Runtime Performance
+- Creating a graph using matplotlib
+- Inserting Index Values
+- Creating Materialized View in SQLite3
+- Learning How to identify Conflict Serialization
