@@ -65,3 +65,16 @@ Assignment09
 - Inserting Index Values
 - Creating Materialized View in SQLite3
 - Learning How to identify Conflict Serialization
+
+Assignment10
+
+- Download Tweets From the Web to Local Text File
+- Create SQL Schema for Tweet Data
+- Download Tweets From Web to SQL Schema
+- Use Execute and ExecuteMany. Compare Runtime Performance
+- Create Materialized View Query to Join All Tables In SQL Schema
+- Use Regular Expressions to parse through a text file 
+- Json Loads - create strings from JSON objects and JSON Dumps - create a dictionary to a string
+- Load in data with CSV and JSON File
+
+  
